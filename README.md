@@ -1,2 +1,2 @@
 # libgdx.info-Basic_Image
-LibGDX.info: Supporting code for Basic Image tutorial: https://libgdx.info/basic_image/
+LibGDX.info: Supporting code for Basic Button, ImageButton, TextButton tutorial: https://libgdx.info/buttons-scene2d/
